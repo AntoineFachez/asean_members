@@ -58,8 +58,88 @@
 * `"status"`: A fixed string value "Member State", indicating the current membership status within ASEAN.
 **JSON Data:**
 ```json
-
-
+[
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Brunei Darussalam",
+    "ISO_A3": "BRN",
+    "status": "Current Member",
+    "joinDate": "1984-01-07",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Cambodia",
+    "ISO_A3": "KHM",
+    "status": "Current Member",
+    "joinDate": "1999-04-30",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Indonesia",
+    "ISO_A3": "IDN",
+    "status": "Current Member",
+    "joinDate": "1967-08-08",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Lao PDR",
+    "ISO_A3": "LAO",
+    "status": "Current Member",
+    "joinDate": "1997-07-23",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Malaysia",
+    "ISO_A3": "MYS",
+    "status": "Current Member",
+    "joinDate": "1967-08-08",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Myanmar",
+    "ISO_A3": "MMR",
+    "status": "Current Member",
+    "joinDate": "1997-07-23",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Philippines",
+    "ISO_A3": "PHL",
+    "status": "Current Member",
+    "joinDate": "1967-08-08",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Singapore",
+    "ISO_A3": "SGP",
+    "status": "Current Member",
+    "joinDate": "1967-08-08",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Thailand",
+    "ISO_A3": "THA",
+    "status": "Current Member",
+    "joinDate": "1967-08-08",
+    "membershipNotes": null
+  },
+  {
+    "IGO": "ASEAN",
+    "COUNTRY_EN": "Viet Nam",
+    "ISO_A3": "VNM",
+    "status": "Current Member",
+    "joinDate": "1995-07-28",
+    "membershipNotes": null
+  }
+]
 ```
 
 ## IV. Analysis
